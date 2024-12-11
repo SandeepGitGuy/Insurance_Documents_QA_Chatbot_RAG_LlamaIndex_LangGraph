@@ -1,0 +1,6 @@
+- [Version 0.1.1]-05/12/24 - Added Cache Layer to improve the performance of the chatbot.
+- [Version 0.1.2]-10/12/24 - Reworked System Prompt/Insturctions to guide the model to generate more relevant answers to the user queries.
+- [Version 0.1.3]-10/12/24 - Reworked on the logic of save_index and build_index functions and its calling to improve the performance of the chatbot and avoid errors and run time code terminations.
+- [Version 0.1.4]-10/12/24 - Reworked on LangGraph logic for more flexibility and better results.
+- [Version 0.2.0]-11/12/24 - Changed code to input API Keys from user instead of Hardcoding.
+- [Version 0.2.1]-11/12/24 - changed to OpenAI Model for Embeddings and Openai's GPT 4o/4o-mini for final response generation.

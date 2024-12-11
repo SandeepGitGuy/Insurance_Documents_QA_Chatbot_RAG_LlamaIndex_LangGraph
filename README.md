@@ -30,6 +30,7 @@ This chatbot leverages the advanced capabilities of LangGraph to deliver precise
   - OpenAI for high-quality generative responses
   - LlamaIndex for document ingestion and querying
   - LangGraph for agent orchestration and state management
+  - ChromaDB for efficient data storage.
 
 ---
 
@@ -45,6 +46,7 @@ This chatbot leverages the advanced capabilities of LangGraph to deliver precise
 ![Insurance Query Response](Sample%20Code%20Output%20Screenshots/Sample%20Code%20Output%201.png)  
  
 ---
+
 ## 🚀 Getting Started
 
 ### Prerequisites

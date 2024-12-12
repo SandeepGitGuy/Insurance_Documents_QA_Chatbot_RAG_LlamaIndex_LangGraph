@@ -1,8 +1,8 @@
 # Insurance Documents QA RAG Chatbot  
 Your Intelligent Chat Assistant for Insurance and General Queries  
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/python-3.8%2B-brightgreen.svg)](https://www.python.org/)  
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.8%2B-brightgreen.svg)](https://www.python.org/)
 
 ---
 
@@ -24,7 +24,7 @@ This chatbot leverages the advanced capabilities of LangGraph to deliver precise
 
 ## 🛠️ Tech Stack  
 - **Language**: Python  
-- **Frameworks/Libraries**: LangGraph, LlamaIndex, ChromaDB 
+- **Frameworks/Libraries**: LangGraph, LangChain, LlamaIndex, ChromaDB 
 - **APIs/Models**:  
   - OpenAI's Embedding Model for vector creation 
   - OpenAI for high-quality generative responses
